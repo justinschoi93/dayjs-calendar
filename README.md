@@ -10,7 +10,7 @@
 
 ## Description 
 
-[Visit the Deployed Site](https://justinschoi93.github.io/module-4-challenge-JC93/gi)
+[Visit the Deployed Site](https://justinschoi93.github.io/module-5-challenge-JC93/)
 
 I modified a day planner to make it more functional. The save button now saves the text in the textarea to localStorage, and data from localStorage is retrieved and displayed when the page is refreshed.  
 
